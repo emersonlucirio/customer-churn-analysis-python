@@ -2,6 +2,9 @@
 Customer churn analysis using Python for data cleaning, exploration, and business insights.
 
 
+<p align="#">
+<img width="700" height="719" alt="jupyter" src="https://github.com/user-attachments/assets/75c29bfb-7fd0-4d51-bfeb-d3a7360d84bf" />
+
 # Customer Churn Analysis with Python
 
 ## 📌 Project Overview
